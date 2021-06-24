@@ -1,2 +1,2 @@
 # WS-pancake
-### 👋 ini dibuat sebagai dokumentasi WS BKN dengan Kemenperin :fire:
+### 👋 ini dibuat sebagai dokumentasi WebService BKN dengan Kemenperin :fire:
